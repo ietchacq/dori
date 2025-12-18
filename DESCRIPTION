@@ -1,0 +1,16 @@
+Package: dori
+Title: Diversity of Representation Index
+Version: 0.1.0
+Authors@R: 
+    person("Iris", "Acquarone", , "iethacq@gmail.com", role = c("aut", "cre"))
+Author: Iris E. Acquarone
+Maintainer: Iris E. Acquarone <ietchacq@gmail.com>
+Description: Computes DORI_b and DORI_w for multidimensional political
+    representation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
