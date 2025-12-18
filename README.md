@@ -97,7 +97,7 @@ df$dori_w <- dori_w(groups, groups_soc, vars)
   - higher values = more variety and more balanced representation across groups
 
 - **DORI_w** adjusts the above by descriptive representation  
-  - higher values = greater *representatively* diverse  
+  - higher values = more *representatively* diverse  
   - can be negative under extreme overrepresentation
 
 
