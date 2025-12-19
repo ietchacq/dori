@@ -16,7 +16,7 @@ DORI provides a multidimensional measure of institutional diversity by incorpora
 
 The package includes two main functions:
 - `dori_b()` — **Balanced DORI**, focusing on variety and evenness  
-- `dori_w()` — **Weighted DORI**, incorporating descriptive representation gaps (Equation 2 in the paper)
+- `dori_w()` — **Weighted DORI**, incorporating descriptive representation gaps
 
 Both functions implement the DORI formulas as defined in Acquarone (2025). They can be used with any dataset containing group proportions, and they reproduce the computations shown in the paper when supplied with the appropriate inputs (e.g., gender and racial proportions for U.S. state legislatures 2009–2021, Canadian and German examples). 
 
